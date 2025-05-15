@@ -1,16 +1,17 @@
 # si-with-Ritah.github.io
-Personal portfolio website built with HTML &amp; CSS.
+<p>AI Chatbot Developer | Python + OpenAI + LangChain</p>
+Personal portfolio website built with HTML <!DOCTYPE html>CSS.
 <!DOCTYPE html>
-<html lang="en">
+<html <!DOCTYPE html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Your Name – AI Developer</title>
+  <title>kiburu – AI Developer</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>kiburu</h1>
     <p>AI Chatbot Developer | Python + OpenAI + LangChain</p>
   </header>
 
@@ -30,15 +31,13 @@ Personal portfolio website built with HTML &amp; CSS.
         </li>
       </ul>
     </section>
-
     <section>
-      <h2>Contact</h2>
-      <p>Email: your.email@example.com</p>
+      <h2>0705133906</h2>
+      <p>Email: ritahwothaya@gmail.com</p>
     </section>
   </main>
-
   <footer>
-    <p>© 2025 Your Name</p>
+    <p>© 2025  kiburu</p>
   </footer>
 </body>
 </html>
